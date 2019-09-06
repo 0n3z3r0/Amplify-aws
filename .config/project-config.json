@@ -1,0 +1,13 @@
+{
+    "projectName": "cd Amplify",
+    "version": "2.0",
+    "frontend": "android",
+    "android": {
+        "config": {
+            "ResDir": ""
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
